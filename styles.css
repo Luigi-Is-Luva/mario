@@ -1,0 +1,23 @@
+h1{color:#355070;
+    font-size: 3em;
+    text-transform:capitalize;
+    font-family: Helvetica, sans-serifs;
+    border: 1px solid #000;
+    text-align: center;
+    background-color:#EAAC8B;
+    width: 700px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px
+    }
+h2{
+	font-size: 3em;
+}
+a{text-decoration: none;
+	color: #6D597A;
+	font-weight: bold;
+	font-size: 2.5em;}
+a.attribution{font-size: 0.5em;}
+p.attribution{font-size: 0.2em;}
+body{background-color: #EAAC8B;
+	margin: 100px;}
